@@ -1,0 +1,6 @@
+E:\کتابخانه من\MSCD-970614\[03]\TenissP\teniss\obj\Debug\teniss.csprojResolveAssemblyReference.cache
+E:\کتابخانه من\MSCD-970614\[03]\TenissP\teniss\bin\Debug\teniss.exe.config
+E:\کتابخانه من\MSCD-970614\[03]\TenissP\teniss\bin\Debug\teniss.exe
+E:\کتابخانه من\MSCD-970614\[03]\TenissP\teniss\bin\Debug\teniss.pdb
+E:\کتابخانه من\MSCD-970614\[03]\TenissP\teniss\obj\Debug\teniss.exe
+E:\کتابخانه من\MSCD-970614\[03]\TenissP\teniss\obj\Debug\teniss.pdb
